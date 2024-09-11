@@ -8,4 +8,10 @@ public class gitHomework {
 		System.out.println("noor amin");
 	
 }
+	/**
+	this is from gethub
+ 	java is fun
+  	api is not fun
+
+	*/
 }
