@@ -1,6 +1,11 @@
 	package homework;
 
 public class gitHomework {
-	public static void main(String[] args) {
-		
 	
+	
+
+	public void display() {
+		System.out.println("noor amin");
+	
+}
+}
